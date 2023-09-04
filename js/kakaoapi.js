@@ -1,4 +1,4 @@
-Kakao.init('3d8901fc212016dd590d66f27cb9d29e');
+Kakao.init('9c6443b890ffa77aee076523b98b43ec');
 
 document.querySelector('.kakao').addEventListener('click', function () {
     // 원하는 동의 항목 설정
